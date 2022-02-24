@@ -783,3 +783,27 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.24-23.28.40:048][697]LogAudioMixer: Resetting audio stream to device id 
 [2022.02.24-23.28.40:063][697]LogAudioMixer: Display: 0: FrontLeft
 [2022.02.24-23.28.40:063][697]LogAudioMixer: Display: 1: FrontRight
+[2022.02.24-23.51.22:400][262]LogSlate: Window 'Add Content to the Project' being destroyed
+[2022.02.24-23.51.24:494][506]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.24-23.51.24:502][506]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.24-23.51.30:204][191]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2022.02.24-23.51.30:205][191]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.24-23.51.37:349][913]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.24-23.51.37:357][913]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.24-23.51.37:361][913]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.24-23.51.45:078][838]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Test
+[2022.02.24-23.51.45:081][838]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.24-23.51.47:667][143]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Test.BP_Test
+[2022.02.24-23.51.47:787][143]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.02.24-23.51.49:339][251]BlueprintLog: New page: Compile BP_Test
+[2022.02.24-23.51.49:361][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.02.24-23.51.49:380][251]LogSlate: Took 0.006532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.24-23.51.51:197][465]LogSlate: Window 'BP_Test' being destroyed
+[2022.02.24-23.51.51:205][465]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.02.24-23.51.51:205][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.24-23.51.52:690][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.02.24-23.51.53:970][637]LogSlate: Window 'Save Content' being destroyed
+[2022.02.24-23.51.54:001][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Test" FILE="../../../../../../Users/Kenneth/Desktop/Unreal Projects/GIT_Test/Content/Blueprints/BP_Test.uasset" SILENT=true
+[2022.02.24-23.51.54:004][637]LogSavePackage: Moving '../../../../../../Users/Kenneth/Desktop/Unreal Projects/GIT_Test/Saved/BP_Test87E3527F469724E8395677B775375F3B.tmp' to '../../../../../../Users/Kenneth/Desktop/Unreal Projects/GIT_Test/Content/Blueprints/BP_Test.uasset'
+[2022.02.24-23.51.54:015][637]AssetCheck: New page: Asset Save: BP_Test
+[2022.02.24-23.51.54:015][637]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Test.BP_Test
